@@ -35,3 +35,5 @@ Trae Work CN
 - QQ: 2420606353
 - Email: 2420606353@qq.com
 - GitHub: https://github.com/sgap-guard
+- Gitee:https://gitee.com/sgap_guard
+- GitCode:https://gitcode.com/sgap_guard
