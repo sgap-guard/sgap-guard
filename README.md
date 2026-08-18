@@ -17,7 +17,9 @@ Microsoft Visual Studio 2026
 
 Microsoft Visual Studio Code
 
-Alibaba Qoder CN
+Trae Code CN
+
+Trae Work CN
 
 ###  Personal Characteristics
 
