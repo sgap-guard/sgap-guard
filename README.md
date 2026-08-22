@@ -8,18 +8,18 @@ I am passionate about AI and enjoy turning ideas into practical, sofeware testin
 
 ### Operating System
 
-Windows 11
+- Windows 11
 
-Deepin 25.2.0
+- Deepin 25
 
 ### IDE
-Microsoft Visual Studio 2026
+- Microsoft Visual Studio 2026
 
-Microsoft Visual Studio Code
+- Microsoft Visual Studio Code
 
-Trae Code CN
+- Trae Code CN
 
-Trae Work CN
+- Trae Work CN
 
 ###  Personal Characteristics
 
@@ -31,9 +31,11 @@ Trae Work CN
 
 ###  Contact
 
-- WeChat / Telephone: 13351802696
+- WeChat/Telephone: 13351802696
 - QQ: 2420606353
 - Email: 2420606353@qq.com
 - GitHub: https://github.com/sgap-guard
 - Gitee:https://gitee.com/sgap_guard
 - GitCode:https://gitcode.com/sgap_guard
+- CSDN:https://blog.csdn.net/2604_96302878
+- OSCHINA:https://my.oschina.net/u/9763558
