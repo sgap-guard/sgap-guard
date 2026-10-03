@@ -1,8 +1,6 @@
 ### Person
 
-Hello, I'm LiuJialin, also sgap.
-
-Currently a student at Harbin University of Science and Technology, majoring in Computer Science and Technology, and Information Management and Information Systems. 
+Hello everyone, I'm Jimmy, a freshman from Harbin University of Science and Technology, currently majoring in Computer Science and Technology, Information Management and Information Systems. I am actively studying software development, algorithms, data structures, and preparing for ACM programming contests.
 
 I am passionate about AI and enjoy turning ideas into practical, sofeware testing.
 
@@ -10,16 +8,16 @@ I am passionate about AI and enjoy turning ideas into practical, sofeware testin
 
 - Windows 11
 
-- Deepin 25
-
 ### IDE
 - Microsoft Visual Studio 2026
 
 - Microsoft Visual Studio Code
 
+- JetBrains CLion
+
 - Trae Code CN
 
-- Trae Work CN
+- WorkBuddy
 
 ###  Personal Characteristics
 
@@ -39,3 +37,11 @@ I am passionate about AI and enjoy turning ideas into practical, sofeware testin
 - GitCode:https://gitcode.com/sgap_guard
 - CSDN:https://blog.csdn.net/2604_96302878
 - OSCHINA:https://my.oschina.net/u/9763558
+ 
+ ### To my like-minded peers:
+ 
+ - Keep learning every day — even small steps can make a big difference in the long run.
+ 
+ - Don't hesitate to ask questions or share your knowledge. We grow faster when we learn together!
+ 
+ - I am delighted to be part of this wonderful community and look forward to connecting with everyone here.
